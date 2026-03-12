@@ -11,7 +11,6 @@ agents:
     "kwantum-tester",
     "kwantum-technical-writer",
   ]
-model: Claude Opus 4.6 (copilot)
 ---
 
 # kwantum — Orchestrator
