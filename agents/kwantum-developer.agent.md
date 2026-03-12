@@ -3,7 +3,6 @@ name: kwantum-developer
 description: "Executes implementation tasks from the orchestrator with disciplined scope control, minimal changes, and testing-aware handoff summaries."
 user-invocable: false
 tools: [read, edit, search, execute]
-agents: []
 model: Claude Sonnet 4.6
 ---
 

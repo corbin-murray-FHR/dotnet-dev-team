@@ -3,8 +3,7 @@ name: kwantum-technical-writer
 description: "Converts implemented and validated work into accurate, audience-appropriate documentation without overstating what was delivered or verified."
 user-invocable: false
 tools: [read, edit, search]
-agents: []
-model: Gemini 3.1 Pro
+model: Gemini 3.1 Pro (Preview) (copilot)
 ---
 
 # Your Existence

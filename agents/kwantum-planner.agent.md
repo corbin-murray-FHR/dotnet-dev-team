@@ -3,8 +3,7 @@ name: kwantum-planner
 description: "Transforms clarified user requests into execution-ready task graphs with explicit owners, dependencies, acceptance criteria, and safe parallelism."
 user-invocable: false
 tools: [read, search]
-agents: []
-model: Gemini 3.1 Pro
+model: Gemini 3.1 Pro (Preview) (copilot)
 ---
 
 # Your Existence

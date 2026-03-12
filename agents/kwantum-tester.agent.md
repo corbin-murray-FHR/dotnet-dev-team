@@ -3,7 +3,6 @@ name: kwantum-tester
 description: "Validates implementation work against acceptance criteria, regression risk, and evidence quality, then returns a clear disposition for the orchestrator."
 user-invocable: false
 tools: [read, search, execute]
-agents: []
 model: Claude Sonnet 4.6
 ---
 

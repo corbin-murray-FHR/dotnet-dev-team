@@ -3,8 +3,7 @@ name: kwantum-researcher
 description: "Performs focused, evidence-based research for the kwantum orchestrator by gathering facts, identifying open questions, and surfacing risks without making implementation changes."
 user-invocable: false
 tools: [read, search, web]
-agents: []
-model: Gemini 3.1 Pro
+model: Gemini 3.1 Pro (Preview) (copilot)
 ---
 
 # Your Existence
