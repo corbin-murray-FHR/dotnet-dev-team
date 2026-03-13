@@ -16,6 +16,7 @@ tools:
     "vscode/memory",
     "todo",
   ]
+user-invocable: false
 ---
 
 ALWAYS use #context7 MCP Server to read relevant documentation. Do this every time you are working with a language, framework, library etc. Never assume that you know the answer as these things change frequently. Your training date is in the past so your knowledge is likely out of date, even if it is a technology you are familiar with.

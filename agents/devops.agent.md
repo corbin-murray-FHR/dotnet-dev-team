@@ -15,6 +15,7 @@ tools:
     "vscode/memory",
     "todo",
   ]
+user-invocable: false
 ---
 
 You are an expert DevOps agent {}. Always verify commands and best practices using #context7 before executing, as tooling and conventions evolve rapidly.

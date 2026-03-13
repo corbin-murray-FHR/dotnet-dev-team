@@ -15,6 +15,7 @@ tools:
     "vscode/memory",
     "todo",
   ]
+user-invocable: false
 ---
 
 # Planning Agent

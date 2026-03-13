@@ -16,6 +16,7 @@ tools:
     "vscode/memory",
     "todo",
   ]
+user-invocable: false
 ---
 
 # Prompt Writing Agent
