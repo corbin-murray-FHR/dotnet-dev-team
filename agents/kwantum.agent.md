@@ -1,6 +1,6 @@
 ---
 name: kwantum
-description: TBD
+description: Orchestrates complex requests by breaking them into tasks and delegating to specialized subagents. Coordinates work but does not implement anything itself.
 model: GPT-5.4 (copilot)
 tools:
   [
