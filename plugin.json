@@ -1,7 +1,7 @@
 {
   "name": "dotnet-dev-team",
   "description": "Flint Hills Resources .NET development necessities.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "Corbin Murray",
     "email": "corbin.murray@fhr.com"
