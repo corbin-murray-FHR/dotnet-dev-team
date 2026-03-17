@@ -1,3 +1,8 @@
+---
+name: testing-qa
+description: Comprehensive guidance for writing effective tests, following TDD practices, and ensuring code quality through automated testing.
+---
+
 # Testing & QA Practices
 
 ## Overview

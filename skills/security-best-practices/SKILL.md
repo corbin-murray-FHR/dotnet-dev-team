@@ -1,3 +1,8 @@
+---
+name: security-best-practices
+description: Comprehensive security guidelines for building secure applications, protecting against common vulnerabilities, and following defense-in-depth principles.
+---
+
 # Security Best Practices
 
 ## Overview

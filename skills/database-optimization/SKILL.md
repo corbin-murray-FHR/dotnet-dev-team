@@ -1,3 +1,8 @@
+---
+name: database-optimization
+description: Best practices for designing efficient database schemas, writing optimized queries, and scaling database operations for high-performance applications.
+---
+
 # Database Optimization
 
 ## Overview

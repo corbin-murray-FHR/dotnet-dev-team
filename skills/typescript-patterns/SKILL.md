@@ -1,3 +1,8 @@
+---
+name: typescript-patterns
+description: Comprehensive TypeScript patterns and best practices for building type-safe, maintainable, and scalable applications.
+---
+
 # TypeScript Patterns
 
 ## Overview

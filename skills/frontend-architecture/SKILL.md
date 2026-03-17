@@ -1,3 +1,8 @@
+---
+name: frontend-architecture
+description: Best practices for building scalable, performant frontend applications with modern frameworks, focusing on architecture patterns, optimization techniques, and user experience.
+---
+
 # Frontend Architecture & Performance
 
 ## Overview

@@ -1,3 +1,8 @@
+---
+name: code-quality
+description: Comprehensive guidance on writing clean, maintainable, and scalable code, covering SOLID principles, design patterns, refactoring, and clean architecture practices.
+---
+
 # Code Quality & Clean Code
 
 ## Overview

@@ -1,3 +1,8 @@
+---
+name: api-design
+description: Best practices for designing, implementing, and integrating RESTful and GraphQL APIs that are scalable, maintainable, and developer-friendly.
+---
+
 # API Design & Integration
 
 ## Overview
